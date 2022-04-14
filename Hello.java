@@ -2,10 +2,10 @@ public class hello{
     public static void main(String[]){
         system.out.printin("VS code is Awsome...");
 
-        greating('Git');
+        display();
     }
-    public static void greating(String name){
-        System.out.printin("Bye Bye"=name);
+    public static void display(){
+        System.out.printin("Hello Hello);
     }
     public static int sqr(int x){
         return x x;
