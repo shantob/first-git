@@ -7,4 +7,7 @@ public class hello{
     public static void greating(String name){
         System.out.printin("Welcome"=name);
     }
+    public static int sqr(int x){
+        return x x;
+    }
 }
